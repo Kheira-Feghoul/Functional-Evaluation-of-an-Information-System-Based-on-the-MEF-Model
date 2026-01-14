@@ -12,4 +12,4 @@ A functional evaluation of an information system conducted using the MEF model t
 - Analytical Thinking  
 
 ## Author
-Khayra Feghoul
+Kheira Feghoul
